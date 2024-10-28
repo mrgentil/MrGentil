@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Excited when it comes to reading and getting challenged
 - 🎓 &nbsp; Bachelor's degree in software engineering at <a href="https://www.upac.info/">U.PA.C</a>
-- 💼 &nbsp; Working at <a href="https://aguimawebagency.com/">AGUIMA WEB AGENCY</a>
+- 💼 &nbsp; Working at <a href="https://owr-digi.com">Freelance Developper</a>
 - 🌱 &nbsp; Lovers of the development of strong backend applications
 
 <h3>🛠 Tech Stack</h3>
