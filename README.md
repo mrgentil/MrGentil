@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Language : JavaScript | PHP | JavaEE |
-- 👨‍💻 &nbsp; Backend  : Nodejs | Laravel | SYmfony
+- 💻 &nbsp; Language : JavaScript | PHP | JavaEE | Flutter
+- 👨‍💻 &nbsp; Backend  : Nodejs | Laravel | SYmfony | NestJs
 - 🌐 &nbsp; Frontend : HTML | CSS | JavaScript | ReactJs & ReactNative |
 - 🛢 &nbsp; Database : MySQL | MongoDB | SQLSever
 - 🔧&nbsp; Tools    : Git | GitHub | Bitbucket
