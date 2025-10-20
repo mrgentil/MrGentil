@@ -22,9 +22,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bedi-tshitsho-28a251191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BediTShitsho-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/bédi-tshitsho-280399379"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BediTShitsho-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/bedi_tshitsho/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-BediTShitsho-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tshitshob@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+  <a href="https://tshitsho.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://tshitsho.netlify.app-blue?style=flat-square&logo=Website"></a>
 </p>
 
 ⭐️ [@mrgentil](https://github.com/mrgentil)
